@@ -10,4 +10,5 @@ import Foundation
 
 struct FoodItem {
     
+    let name: String
 }
