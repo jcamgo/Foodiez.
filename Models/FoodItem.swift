@@ -12,4 +12,5 @@ struct FoodItem {
     
     let name: String
     var rating: Int
+    
 }
