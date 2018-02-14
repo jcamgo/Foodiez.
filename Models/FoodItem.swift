@@ -6,7 +6,7 @@
 //  Copyright © 2018 jonathan orellana. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 struct FoodItem {
     
