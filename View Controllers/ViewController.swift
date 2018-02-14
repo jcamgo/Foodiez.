@@ -10,5 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    override func viewDidLoad() {
+        
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        <#code#>
+    }
 }
 
