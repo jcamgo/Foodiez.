@@ -9,5 +9,6 @@
 import UIKit
 
 struct Restaurant {
-    <#fields#>
+    
+    var restaurant: String
 }
