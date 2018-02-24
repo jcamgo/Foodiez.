@@ -10,5 +10,5 @@ import UIKit
 
 struct Restaurant {
     
-    
+    var restaurant: String
 }
